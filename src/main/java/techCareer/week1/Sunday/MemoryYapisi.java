@@ -1,4 +1,4 @@
-package src.main.java.techCareer.Sunday;
+package techCareer.week1.Sunday;
 
 public class MemoryYapisi {
     public static void main(String[] args) {

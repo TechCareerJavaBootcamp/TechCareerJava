@@ -1,4 +1,4 @@
-package src.main.java.techCareer.Saturday;
+package techCareer.week1.Saturday;
 
 import java.util.ArrayList;
 import java.util.List;

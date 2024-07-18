@@ -1,4 +1,4 @@
-package src.main.java.techCareer.Saturday;
+package techCareer.week1.Saturday;
 
 public class PrimitiveType_Numeric {
 
